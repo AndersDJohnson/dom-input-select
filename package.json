@@ -1,6 +1,6 @@
 {
   "name": "dom-input-select",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Selects text on an HTMLInputElement.",
   "main": "build/dom-input-select.js",
   "scripts": {
