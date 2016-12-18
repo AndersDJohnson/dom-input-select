@@ -1,4 +1,4 @@
-export default function domFocus(node) {
+export default function domInputSelect(node) {
   if ('selectionStart' in node) {
     node.selectionStart = 0
     node.selectionEnd = 9999
