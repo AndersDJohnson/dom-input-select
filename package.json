@@ -1,13 +1,13 @@
 {
   "name": "dom-input-select",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Selects text on an HTMLInputElement.",
   "main": "build/dom-input-select.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build:src": "babel src -d build"
   },
-  "author": "Anders D. Johnson",
+  "author": "Anders D. Johnson (https://andersdjohnson.com)",
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.18.0",
