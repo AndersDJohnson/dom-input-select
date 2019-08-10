@@ -8,7 +8,8 @@ npm add dom-input-select
 ```js
 import domInputSelect from 'dom-input-select'
 
-const onClick = (e) => domInputSelect(e.target)
+// select the input contents when clicking on it
+const onClick = e => domInputSelect(e.target)
 
 document.querySelector('input#my-input')
   .addEventListener('click', onClick)
